@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/maurizio0610/maurizio/_apis/build/status/maurizio-kodelab.-js-e2e-express-server?branchName=main)](https://dev.azure.com/maurizio0610/maurizio/_build/latest?definitionId=1&branchName=main)
 ---
 page_type: sample
 languages:
