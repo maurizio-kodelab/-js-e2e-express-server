@@ -1,30 +1,5 @@
-[![Build Status](https://dev.azure.com/maurizio0610/maurizio/_apis/build/status/maurizio-kodelab.-js-e2e-express-server?branchName=main)](https://dev.azure.com/maurizio0610/maurizio/_build/latest?definitionId=1&branchName=main)
----
-page_type: sample
-languages:
-- javascript
-- nodejs
-name: "JavaScript end-to-end Express.js server"
-description: "This project is used instead of the previous express-generator."
-products:
-- azure
-- vs-code
----
+# Finetuning LLama-3.2-3B for Q&A using [unsloth](https://unsloth.ai)
 
-# JavaScript end-to-end client file upload to Azure Storage Blobs
+Original notebook [here](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Meta_Synthetic_Data_Llama3_2_(3B).ipynb#scrollTo=FqfebeAdT073)
 
-This is a basic Express.js server used for JS Dev Experience documentation, in place of the previously used express generator. 
 
-1. Clone repo.
-
-1. Install dependencies: 
-
-    ```bash
-    npm install
-    ```
-
-1. Start project: 
-
-    ```bash
-    npm start
-    ```
